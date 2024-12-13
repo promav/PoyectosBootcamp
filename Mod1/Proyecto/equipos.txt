@@ -1,0 +1,4 @@
+id,nombre,web,posicion,europa,presupuesto,fundacion
+1,REAL MADRID FC,www.realmadridfc.es,2,True,705.5,1902-03-06
+2,RCD MALLORCA,www.rcdmallorca.es,8,False,60.3,1916-03-05
+3,FC BARCELONA,www.fcbarcelona.es,1,True,405.5,1899-11-29

@@ -1,0 +1,5 @@
+Nombre: Pablo Entero: 1 Palabra: pizza Ciudad: Malaga
+Nombre: Yujin Entero: 2 Palabra: Tteokbokki Ciudad: Seul
+Nombre: Tomás Entero: 3 Palabra: Tacos Ciudad: Chihuahua
+Nombre: Pilar Entero: 4 Palabra: Piononos Ciudad: Granada
+Nombre: Pedro Entero: 5 Palabra: Olivo Ciudad: Jaen
